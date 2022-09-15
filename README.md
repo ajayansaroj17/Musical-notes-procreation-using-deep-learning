@@ -1,0 +1,2 @@
+# Musical-notes-procreation-using-deep-learning
+Basically, it is a time series problem wherein first we have to encode traditional musical notations (MIDI or abc notation) into numerical one and feed it into LSTM and subsequently predict the next notes which is in the numerical form. then after we have to decode the numerical values into respective notations either MIDI or abc notation. we can easily convert MIDI or abc notations into mp3 format and check the quality of the generated sound.
